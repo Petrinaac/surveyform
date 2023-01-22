@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(0, 158, 84);
+    font-family: Verdana;
+    text-align: center;
+    margin: 0;
+    height: 5000px;
+}
+
+.form {
+    padding: 15px;
+    background-color: rgb(19, 163, 96);
+    display: inline-block;
+    width: 430px;
+    box-shadow: 2px 2px 2px rgb(4, 80, 44);
+}
+
+.text {
+    text-align: start;
+    margin-top: 5px;
+}
+
+input {
+    margin-top: 10px;
+    padding: 5px;
+    width: 350px;
+}
+
+textarea {
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    
+}
